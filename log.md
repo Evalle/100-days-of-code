@@ -15,3 +15,11 @@
 **Thoughts:** "Need to be more careful with git commands' 
 
 **Link to work:** [Emailer](https://www.github.com/Evalle/emailer)
+
+### Day 2: January 4, 2017
+
+**Today's Progress**: Continue to work on emailer application (Python)
+
+**Thoughts:** "Good to know about different new Pythn libraries (smtplib) for example" 
+
+**Link to work:** [Emailer](https://www.github.com/Evalle/emailer)
