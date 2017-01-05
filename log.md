@@ -20,6 +20,14 @@
 
 **Today's Progress**: Continue to work on emailer application (Python)
 
-**Thoughts:** "Good to know about different new Pythn libraries (smtplib) for example" 
+**Thoughts:** "It's really Good to know about different new Python libraries (smtplib) for example" 
+
+**Link to work:** [Emailer](https://www.github.com/Evalle/emailer)
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: Finish my mailer forecast application (Python)
+
+**Thoughts:** "It feels good when you finally finish your project" 
 
 **Link to work:** [Emailer](https://www.github.com/Evalle/emailer)
