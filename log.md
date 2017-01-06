@@ -31,3 +31,11 @@
 **Thoughts:** "It feels good when you finally finish your project" 
 
 **Link to work:** [Emailer](https://www.github.com/Evalle/emailer)
+
+### Day 4: January 6, 2017
+
+**Today's Progress**: Started my own implementation of Hangman 
+
+**Thoughts:** "Need to be more concentrated on code instead of environment" 
+
+**Link to work:** [Hangman](https://www.github.com/Evalle/hangman)
