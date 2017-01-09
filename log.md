@@ -39,3 +39,12 @@
 **Thoughts:** "Need to be more concentrated on code instead of environment" 
 
 **Link to work:** [Hangman](https://www.github.com/Evalle/hangman)
+
+### Day 5: January 9, 2017
+
+**Today's Progress**: Finished main logic of hangman 
+
+**Thoughts:** "Keep pushing" 
+
+**Link to work:** [Hangman](https://www.github.com/Evalle/hangman)
+
