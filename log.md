@@ -48,3 +48,10 @@
 
 **Link to work:** [Hangman](https://www.github.com/Evalle/hangman)
 
+### Day 6: January 10, 2017
+
+**Today's Progress**: Finished Hangman the game 
+
+**Thoughts:** "Some things are don't need to be fixed :)"
+
+**Link to work:** [Hangman](https://www.github.com/Evalle/hangman)
