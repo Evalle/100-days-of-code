@@ -55,3 +55,11 @@
 **Thoughts:** "Some things are don't need to be fixed :)"
 
 **Link to work:** [Hangman](https://www.github.com/Evalle/hangman)
+
+### Day 7: January 13, 2017
+
+**Today's Progress**: Finished couple of projects from https://github.com/karan/Projects#text 
+
+**Thoughts:** "Any problem can be solved in many ways"
+
+**Link to work:** [Python3 repo](https://www.github.com/Evalle/python3)
